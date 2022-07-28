@@ -3,7 +3,9 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+It is a simple and minimalist random text generator that will generate random text and any number of paragraphs with just in one click. 
+
+##
 
 ## User Interface 
 
