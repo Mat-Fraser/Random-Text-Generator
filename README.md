@@ -7,7 +7,7 @@
 It is a simple and minimalist random text generator that will generate random text and any number of paragraphs with just in one click. 
 
 ## Major Language
-- **JavaScript**
+- **Vanilla JavaScript**
 
 ## User Interface 
 
